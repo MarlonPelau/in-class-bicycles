@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital@1&display=swap');
+
+* {
+    border: 2px solid darkolivegreen;
+}
+body {
+    font-family: "Playfair Display";
+    background-color: wheat;
+    color: #8333FF;
+}
+
+h1 {
+    border: 2px solid red;
+    font-size: 60px;
+    border-radius: 15px;
+    text-align: center;
+}
+
+h2 {
+    text-align: center;
+}
+
+h3 {
+    text-align: center;
+}
+
+p {
+    color: black;
+    color: rgb(red, green, blue);
+    background-color: wheat;
+}
+img {
+    display: block;
+    margin: 0 auto;
+}
